@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e atuo com desenvolvimento web, buscando sempre aprimorar minhas habilidades na construção de aplicações escaláveis, organizadas e com boas práticas de desenvolvimento.
 
@@ -16,7 +16,7 @@ Tenho grande interesse em **Back-End**, **APIs REST**, **banco de dados**, **arq
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### **Linguagens**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -47,7 +47,7 @@ Tenho grande interesse em **Back-End**, **APIs REST**, **banco de dados**, **arq
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <a href="https://github.com/seuusuario">
@@ -58,7 +58,7 @@ Tenho grande interesse em **Back-End**, **APIs REST**, **banco de dados**, **arq
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="mailto:gustavomqzz1526@gmail.com" title="Gmail">
@@ -74,6 +74,6 @@ Tenho grande interesse em **Back-End**, **APIs REST**, **banco de dados**, **arq
 
 ---
 
-## ✨ Objetivo
+## Objetivo
 
 Busco oportunidades para crescer como desenvolvedor, contribuir com projetos relevantes e construir soluções que gerem impacto real através da tecnologia.
