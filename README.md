@@ -1,9 +1,4 @@
-<img src="[https://i.pinimg.com/1200x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)](https://i.pinimg.com/736x/17/6a/14/176a14ed28761ccb2a0ffd4b5fa1040b.jpg)]" 
-     alt="Ilustração de computador"
-     min-width="400px"
-     max-width="400px"
-     width="400px"
-     align="right">
+
 
 # 👋 Olá, eu sou Gustavo Marquezin
 
